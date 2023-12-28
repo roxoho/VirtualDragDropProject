@@ -1,7 +1,7 @@
 # VirtualDragDropProject
 
 ## Libraries Used
-- Mediapipe
+- Mediapipe (Ensure compatibility with Mediapipe by using a Python version supported by the library).
 - OpenCV
 
 ## Description
